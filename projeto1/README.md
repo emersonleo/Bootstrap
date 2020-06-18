@@ -1,2 +1,2 @@
 # Bootstrap
-Repositório para as atividades do curso de Bootstrap
+Template inicial do Bootstrap
